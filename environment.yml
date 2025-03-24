@@ -1,0 +1,21 @@
+name: ESS130
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - scipy
+  - matplotlib
+  - cartopy
+  - dask
+  - pandas
+  - xarray
+  - xgcm
+  - netcdf4
+  - zarr
+  - cmocean
+  - gsw
+  - xhistogram
+  - jupyterlab
+  - wget
+  - curl
+  - pip
