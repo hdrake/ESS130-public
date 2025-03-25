@@ -1,4 +1,4 @@
-name: ESS130
+name: ESS130-public
 channels:
   - conda-forge
 dependencies:
